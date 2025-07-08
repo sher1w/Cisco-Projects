@@ -1,0 +1,11 @@
+# RIP Routing Project - Cisco Packet Tracer
+
+This project simulates a RIP-based network using Cisco Packet Tracer.
+
+## Contents
+- `rip.pkt`: The Packet Tracer file
+
+
+## Instructions
+1. Open `rip.pkt` in Cisco Packet Tracer (v8.2.2 or later)
+2. Use Simulation mode to test connectivity
